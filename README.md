@@ -1,4 +1,4 @@
-## Natural Language Processing (NLP)
+# Natural Language Processing (NLP)
 
 ### Overview
 Explore the advanced field of Natural Language Processing (NLP) through a series of cutting-edge projects designed to solve real-world problems. This category features an array of projects that leverage both classical NLP techniques and state-of-the-art deep learning models to derive meaningful insights from textual data.
@@ -25,4 +25,20 @@ Explore the advanced field of Natural Language Processing (NLP) through a series
 - **Technologies**: CRF
 - **Applications**: Medical document parsing, information extraction, healthcare automation
 
-These projects exemplify the application of NLP techniques to tackle real-world challenges, such as topic discovery, text classification, summarization, and information extraction. By delving into the code and methodologies used in these projects, you can gain valuable insights and adapt these techniques to your own NLP tasks, enhancing your expertise and contributing to the field.
+**5. PDF to Audiobook Converter**
+- **Description**: This project presents an efficient PDF to audiobook conversion engine that leverages the power of PyPDF2 and gTTS libraries to extract text from PDF files and generate high-quality, natural-sounding audiobooks. It provides a seamless and user-friendly solution for converting PDF documents into engaging audiobooks.
+- **Technologies**: PyPDF2, gTTS
+- **Applications**: Accessibility enhancement, educational materials, research paper dissemination, audiobook creation
+
+**6. Sentiment Analysis of Financial News Headlines**
+- **Description**: This project focuses on applying sentiment analysis techniques to extract valuable insights from financial news headlines. By leveraging natural language processing (NLP) and machine learning algorithms, the project aims to accurately determine the sentiment associated with each headline, providing valuable information for investment decision-making and risk assessment.
+- **Technologies**: BERT, RoBERTa
+- **Applications**: Financial market analysis, investment decision support, risk assessment, trend forecasting, sentiment-driven trading strategies
+
+### Explore More
+Visit the individual project directories in the repository to access detailed documentation, source code, and additional resources for each project.
+
+### Contact
+For any inquiries or collaborations, please contact:
+- Mohamed Oussama NAJI
+- LinkedIn: [Mohamed Oussama Naji](https://www.linkedin.com/in/oussamanaji/)
