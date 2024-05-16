@@ -38,9 +38,10 @@ This project showcases an advanced topic modeling engine that utilizes Latent Di
 - The combination of topic modeling and summarization enables efficient content analysis and recommendation systems for large-scale news datasets.
 
 ## Getting Started
-1. Open the Colab notebook: [LDA-based Topic Modeling Engine](https://colab.research.google.com/drive/1w1taH8fvVQ7sYTsBpnDuGizrGMOqk-5y?usp=sharing)
-2. Upload your news dataset in the appropriate format.
-3. Follow the instructions in the notebook to run the topic modeling engine and explore the generated topic summaries and insights.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1w1taH8fvVQ7sYTsBpnDuGizrGMOqk-5y?usp=sharing)
+
+1. Upload your text dataset in the appropriate format.
+2. Follow the instructions in the notebook to train the news modeling model and evaluate its performance.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
