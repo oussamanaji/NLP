@@ -30,12 +30,6 @@ To run the CausalNet framework:
 
 python main.py
 
-### Advanced Usage
-
-For detailed usage of individual components, refer to the Jupyter notebook:
-
-notebooks/CausalNet_implementation.ipynb
-
 ## Project Structure
 
 CausalNet/
