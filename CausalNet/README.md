@@ -130,7 +130,7 @@ Detailed performance reports, including business impact assessments, can be foun
 
 ## Contributing
 
-We welcome contributions to the CausalNet project, especially those that enhance its applicability to enterprise scenarios. Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+I welcome contributions to the CausalNet project, especially those that enhance its applicability to enterprise scenarios. Please check the Contact section below or just submit a pull request!
 
 ## License
 
