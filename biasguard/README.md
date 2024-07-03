@@ -3,6 +3,10 @@
 ## Overview
 BiasGuard is a cutting-edge project designed to mitigate biases in AI-generated text. Leveraging the power of Cohere’s `CohereForAI/aya-23-8B` model, this project incorporates advanced techniques such as reinforcement learning, quantization, and Low-Rank Adaptation (LoRA) to enhance model performance and fairness.
 
+Check out my [Presentation](https://docs.google.com/presentation/d/1x1HOh2n9KndEBkGM42DVgofS9bxkUNEi-vQu4x-3OOg/edit?usp=sharing) !
+
+
+
 ## Key Features
 - **Data Preparation**: Utilized Social Bias Frames, CrowS-Pairs, and a synthetic dataset generated using Cohere R+.
 - **Model Architecture**: Fine-tuned with additional layers and dropout to prevent overfitting.
@@ -18,15 +22,9 @@ BiasGuard is a cutting-edge project designed to mitigate biases in AI-generated 
   - **Distinct-2**: Increased from 0.28 to 0.41
 - **Bias Scores**: Achieved a 42% reduction in detected bias levels
 
-## Installation
-Colab placholder for later
-
 ## Usage
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11ufviUZ5k7zL8kB6VF6OJ_AgZ5tgHLgc?usp=sharing) [Notebook still in progress]
 
-- Prepare datasets and run the data preparation scripts.
-- Configure the model architecture and training parameters.
-- Execute the training script to fine-tune the model.
-- Evaluate the model using the provided evaluation metrics scripts.
 
 ## Contributing
 I welcome contributions to improve BiasGuard. Please fork the repository and submit a pull request.
