@@ -1,0 +1,40 @@
+[
+  {
+    "id": "graph_001",
+    "nodes": ["A", "B", "C", "D"],
+    "edges": [["A", "B"], ["B", "C"], ["A", "D"], ["C", "D"]],
+    "questions": [
+      {
+        "id": "q_001",
+        "type": "direct_effect",
+        "text": "Is there a direct causal effect of A on C?",
+        "answer": "No"
+      },
+      {
+        "id": "q_002",
+        "type": "indirect_effect",
+        "text": "Is there an indirect causal effect of A on D through C?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "graph_002",
+    "nodes": ["X", "Y", "Z", "W"],
+    "edges": [["X", "Y"], ["Y", "Z"], ["X", "W"], ["Z", "W"]],
+    "questions": [
+      {
+        "id": "q_003",
+        "type": "confounding",
+        "text": "Is X a confounder for the relationship between Y and W?",
+        "answer": "Yes"
+      },
+      {
+        "id": "q_004",
+        "type": "collider",
+        "text": "Is W a collider on the path X -> W <- Z?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]
