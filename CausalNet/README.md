@@ -60,7 +60,6 @@ To run the CausalNet framework:
 python main.py
 ```
 
-For more advanced usage and configuration options, please refer to our [Usage Guide](docs/usage_guide.md).
 
 ## 📁 Project Structure
 
@@ -132,8 +131,6 @@ Detailed performance reports, including business impact assessments, can be foun
 ## 👥 Contributing
 
 I welcome contributions to the CausalNet project, especially those that enhance its applicability to enterprise scenarios. Whether you're fixing bugs, improving documentation, or proposing new features, your input is valuable.
-
-Please check the [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get started.
 
 ## 📄 License
 
